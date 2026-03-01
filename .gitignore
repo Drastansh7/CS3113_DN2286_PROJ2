@@ -1,0 +1,11 @@
+# Build directory
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.xcodeproj/
+
+# OS files
+.DS_Store
+Thumbs.db
